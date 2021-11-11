@@ -2,9 +2,9 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import MainWebSite from "./components/MainWebSite.vue";
 import Login from "./components/BarSites/Login.vue";
-import Register from "./components/BarSites/Register.vue"
-import Contact from "./components/BarSites/Contact.vue"
-import Main from "./components/RadianceApp/Main.vue"
+import Register from "./components/BarSites/Register.vue";
+import Contact from "./components/BarSites/Contact.vue";
+import Main from "./components/RadianceApp/Main.vue";
 
 Vue.use(VueRouter);
 const routes = [

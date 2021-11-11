@@ -15,7 +15,7 @@
               <p class="description-hero" >
                 Las últimas novedades y noticias de tus tecnologías en un solo lugar.
               </p>
-              <v-btn color="grey darken-4" dark x-large  to="/">Empieza Ahora</v-btn>
+              <v-btn color="red darken-4" dark x-large  to="/">Empieza Ahora</v-btn>
             </v-col>
           </v-row>
         </v-container>

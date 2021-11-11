@@ -11,11 +11,10 @@
         <v-container fill-height fluid>
           <v-row align="center" justify="start">
             <v-col class="mx-13">
-              <h2 class="intro-text">Anime, un universo por explorar</h2>
+              <h2 class="intro-text">Todo lo que necesitas saber</h2>
               <p class="description-hero" >
-                Las últimas novedades y noticias de tus tecnologías en un solo lugar.
+                Sobre tus animes favoritos en un gran<br>directorio sobre el mundo del anime
               </p>
-              <v-btn color="grey darken-4" dark x-large  to="/">Empieza Ahora</v-btn>
             </v-col>
           </v-row>
         </v-container>
@@ -37,11 +36,11 @@ export default {
 h2.intro-text {
   font-size: 60px !important;
   color: #ffffff;
-  font-family: "Noto Serif" !important;
+  font-family: "Mukta" !important;
   font-weight: bold !important;
 }
 p.description-hero {
-  font-family: "Montserrat" !important;
+  font-family: "Arial" !important;
   font-size: 19px !important;
   margin: 32px 0px !important;
   color: #ffffff;
@@ -49,7 +48,7 @@ p.description-hero {
 .v-btn {
   font-size: 16px !important;
   text-transform: none !important;
-  font-family: "Montserrat" !important;
+  font-family: "Arial" !important;
   font-weight: 400 !important;
 }
 </style>
