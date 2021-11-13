@@ -18,6 +18,8 @@
     <v-main>
       <div ref="hero"><Hero /></div>
       <div ref="aboutUs"><AboutUs /></div>
+      <div ref="tecnologies"><Tecnologies /></div>
+    <Footer />
     </v-main>
   </v-app>
 </template>
