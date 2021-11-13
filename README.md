@@ -1,24 +1,29 @@
-# radiance-app
+# Aplicación personal
+Esta aplicación fue hecha por Marcos sierra para el proyecto personal de programación web
 
-## Project setup
-```
-npm install
+##  Comandos utiles
+### Project setup
+```shell
+$ npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-npm run serve
+```shell
+$ npm run serve
 ```
 
 ### Compiles and minifies for production
-```
-npm run build
+```shell
+$ npm run build
 ```
 
 ### Lints and fixes files
-```
-npm run lint
+```shell
+$ npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tecnologías utilizadas
+1. Vue 2
+2. npm
+3. vrouter
+4. babylon
